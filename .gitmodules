@@ -1,0 +1,3 @@
+[submodule "MIT6.S081-2020-labs"]
+	path = MIT6.S081-2020-labs
+	url = git@github.com:CalvinHaynes/MIT6.S081-2020Fall.git
